@@ -1,3 +1,6 @@
+## *SERIOUS*
+IF YOU COMPILE THIS PLEASE DONT OPEN THE TEXT FILE! IT CAN CRASH.
+
 ## What even is this????
 Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! Josty oh me! 
 
