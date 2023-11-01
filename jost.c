@@ -23,4 +23,5 @@ void main()
             fprintf(fptr, "josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! josty oh me! ", charrr);
         }
     }
+    return 0;
 }
